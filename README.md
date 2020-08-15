@@ -1,4 +1,4 @@
-[Marky Jackson](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcd.foundation%2Fblog%2F2020%2F04%2F16%2Fintroducing-our-newest-cdf-ambassador-marky-jackson%2F&psig=AOvVaw14exyVSMx9XwK6IkkRlxoX&ust=1597590453456000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjU5K--nesCFQAAAAAdAAAAABAD)
+[![Marky Jackson.](https://flic.kr/p/4dHSbT)](https://www.linkedin.com/in/marky-jackson/)
 
 Hi. I’m Marky. I am an open source enthusiast who is also the Director of Open Source Software at [OpsMX](https://www.opsmx.com/company.html#team).
 
