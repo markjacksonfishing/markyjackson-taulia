@@ -4,7 +4,7 @@ Hi. I’m Marky. I am an open source enthusiast who is also the Director of Open
 
 I am a Kubernetes Org member and a [release lead associate](https://github.com/kubernetes/sig-release/blob/94ec1070153406bdd97c9423efaca377af35a0bd/release-managers.md#L60), a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), and previously a Jenkins Google Summer of Code org admin and mentor.
 
-I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/)and other mediums. I also like [publicly speaking](https://www.youtube.com/watch?v=h4hKSXjCqyI).
+I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/) and other mediums. I also like [publicly speaking](https://www.youtube.com/watch?v=h4hKSXjCqyI).
 
 Finally, I get great joy out of mentoring and am a [mentoring lead within the Kubernetes project](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) as well as a [Kubernetes Outreachy coordinator for the Kubernetes project](https://www.outreachy.org/communities/cfp/kubernetes/).
 
