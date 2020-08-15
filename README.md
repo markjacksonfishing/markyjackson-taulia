@@ -1,4 +1,4 @@
-[![Marky Jackson.](https://www.dropbox.com/s/e31zx2kyo0cotsn/IMG_0161.jpeg?dl=0)](https://www.linkedin.com/in/marky-jackson/)
+[![Marky Jackson.](https://images.app.goo.gl/gz7kJcpagcPHhTnY6)
 
 Hi. I’m Marky. I am an open source enthusiast who is also the Director of Open Source Software at [OpsMX](https://www.opsmx.com/company.html#team).
 
