@@ -1,6 +1,6 @@
 [![Marky Jackso.](https://www.linkpicture.com/q/IMG_0669.jpg)](https://www.linkedin.com/in/marky-jackson/)
 
-Hi. I’m Marky. I am an open source enthusiast who is also the Director of Open Source Software at [OpsMX](https://www.opsmx.com/company.html#team).
+Hi. I’m Marky. I am an open-source enthusiast who is also the Director of Open Source Software at [OpsMX](https://www.opsmx.com/company.html#team).
 
 I am a Kubernetes Org member and a [release lead associate](https://github.com/kubernetes/sig-release/blob/94ec1070153406bdd97c9423efaca377af35a0bd/release-managers.md#L60), a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), and previously a Jenkins Google Summer of Code org admin and mentor.
 
@@ -8,4 +8,4 @@ I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-cont
 
 Finally, I get great joy out of mentoring and am a [mentoring lead within the Kubernetes project](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) as well as a [Kubernetes Outreachy coordinator for the Kubernetes project](https://www.outreachy.org/communities/cfp/kubernetes/).
 
-I love making people smile and believe in the power of open source. You can find me on [twitter at](https://twitter.com/markyjackson5) and on [LinkedIn at](https://www.linkedin.com/in/marky-jackson/)
+I love making people smile and believe in the power of open source. You can find me on [Twitter at](https://twitter.com/markyjackson5) and on [LinkedIn at](https://www.linkedin.com/in/marky-jackson/)
