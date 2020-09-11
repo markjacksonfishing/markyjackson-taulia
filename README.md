@@ -1,6 +1,6 @@
 [![Marky Jackso.](https://www.linkpicture.com/q/IMG_0669.jpg)](https://www.linkedin.com/in/marky-jackson/)
 
-Hi. I’m Marky. I am an open-source enthusiast who is a San Francisco Giants fan, lover of family and friends, and a true believer in you.
+Hi. I’m Marky. I am an open-source enthusiast who is a San Francisco Giants fan, lover of family, friends, and a true believer in you.
 
 I am a Kubernetes Org member and a [release lead associate](https://github.com/kubernetes/sig-release/blob/94ec1070153406bdd97c9423efaca377af35a0bd/release-managers.md#L60), a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), a Jenkins Google Summer of Code org admin and mentor, and a Google Summer of Docs org admin and mentor.
 
