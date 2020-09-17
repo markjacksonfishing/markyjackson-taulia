@@ -2,7 +2,7 @@
 
 Hi. I’m Marky. I am an open-source enthusiast who is a San Francisco Giants fan, lover of family, friends, and a true believer in you.
 
-I am a Kubernetes Org member, a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), a Jenkins Google Summer of Code org admin and mentor, a Google Summer of Docs org admin and mentor, and the community manager for the [Ortelius Project](https://ortelius.io/about/oss-ambassador-program/).
+I am a Kubernetes Org member, a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), a Jenkins Google Summer of Code org admin and mentor,and a Google Summer of Docs org admin and mentor.
 
 I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/) and other mediums. I also like [publicly speaking](https://www.youtube.com/watch?v=h4hKSXjCqyI) and often write [blogs on technical topics](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/).
 
