@@ -2,7 +2,7 @@
 
 Hi. I’m Marky. I am an open-source enthusiast who is a San Francisco Giants fan, lover of family, friends, and a true believer in you.
 
-I am a senior software engineer at [coming soon](https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fcoming-soon-neon-sign-brick-wall-background-87865865.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fcoming-soon.html&tbnid=_AuGrkvdRrd2zM&vet=12ahUKEwjf4_37qvPsAhX9ADQIHbguA10QMygAegUIARDeAQ..i&docid=HmZR52V7Vfh-AM&w=1300&h=870&q=coming%20soon%20pic&safe=active&client=safari&ved=2ahUKEwjf4_37qvPsAhX9ADQIHbguA10QMygAegUIARDeAQ) working on site reliability and the open-source [coming soon](https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fcoming-soon-neon-sign-brick-wall-background-87865865.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fcoming-soon.html&tbnid=_AuGrkvdRrd2zM&vet=12ahUKEwjf4_37qvPsAhX9ADQIHbguA10QMygAegUIARDeAQ..i&docid=HmZR52V7Vfh-AM&w=1300&h=870&q=coming%20soon%20pic&safe=active&client=safari&ved=2ahUKEwjf4_37qvPsAhX9ADQIHbguA10QMygAegUIARDeAQ) project.
+I am a senior software engineer at [Equinix Metal](https://metal.equinix.com) working on site reliability and the open-source [Tinkerbell](https://tinkerbell.org) project.
 
 I am a Kubernetes Org member, , a [Kubernetes Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md), a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), a Jenkins Google Summer of Code org admin and mentor,and a Google Summer of Docs org admin and mentor.
 
