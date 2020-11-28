@@ -4,7 +4,7 @@ Hi. I’m Marky. I am an open-source enthusiast who is a San Francisco Giants fa
 
 I am a senior software engineer at [Equinix Metal](https://metal.equinix.com) working on site reliability and the open-source [Tinkerbell](https://tinkerbell.org) project.
 
-I am a Kubernetes Org member, , a [Kubernetes Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md), a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), a [Jenkins Google Summer of Code org admin and mentor](https://www.jenkins.io/sigs/gsoc/),and a Google Summer of Docs org admin and mentor.
+I am a Kubernetes Org member, , a [Kubernetes Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md), a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), a [Jenkins Google Summer of Code org admin and mentor](https://www.jenkins.io/sigs/gsoc/),and a [Google Summer of Docs org admin and mentor](https://www.jenkins.io/sigs/docs/gsod/).
 
 I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/) and other mediums. I also like [publicly speaking](https://www.youtube.com/watch?v=h4hKSXjCqyI) and often write [blogs on technical topics](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/).
 
