@@ -12,3 +12,5 @@ Finally, I get great joy out of mentoring and am a [mentoring lead within the Ku
 
 I love making people laugh, smile and believe in the power of open source and the community that surrounds it. You can find me on [Twitter](https://twitter.com/markyjackson5), on [LinkedIn](https://www.linkedin.com/in/marky-jackson/), and most open-source communication mediums as markyjackson.
 Please do not hesitate to reach out and say hi.
+
+In 2021, I decided to step back from most open-source projects and focus on mental health, family and work. My hope is to recalibrate and come back recharged.
