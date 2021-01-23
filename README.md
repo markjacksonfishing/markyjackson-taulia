@@ -1,6 +1,6 @@
 [![Marky Jackso.](https://www.linkpicture.com/q/IMG_0669.jpg)](https://www.linkedin.com/in/marky-jackson/)
 
-Hi. I’m Marky. I am an open-source enthusiast who is a lover of family and friends.
+Hi. I’m Marky Jackson. I am an open-source enthusiast who is a lover of family and friends.
 
 I am a senior software engineer at [Equinix Metal](https://metal.equinix.com) working on site reliability and the open-source [Tinkerbell](https://tinkerbell.org) project.
 
