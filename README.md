@@ -10,4 +10,4 @@ I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-cont
 
 Finally, I get great joy out of mentoring and am a [mentoring lead within the Kubernetes project](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) as well as a [Kubernetes Outreachy coordinator for the Kubernetes project](https://www.outreachy.org/communities/cfp/kubernetes/).
 
-In 2021, I decided to step back from most open-source projects and focus on mental health, family and work. My hope is to recalibrate and come back recharged sometime in the future.
+In 2021, I decided to step back from open-source projects and focus on mental health, family and work.
