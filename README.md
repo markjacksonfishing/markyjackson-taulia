@@ -1,4 +1,4 @@
-[![Marky Jackso.](https://www.linkpicture.com/q/IMG_0669.jpg)](https://www.linkedin.com/in/marky-jackson/)
+[![Marky Jackso.](https://www.linkpicture.com/q/IMG_0669.jpg)](https://github.com/markyjackson-taulia)
 
 Hi. I’m Marky Jackson. I am an open-source enthusiast who is a lover of family and friends.
 
