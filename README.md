@@ -1,6 +1,6 @@
 [![Marky Jackso.](https://www.linkpicture.com/q/IMG_0669.jpg)](https://github.com/markyjackson-taulia)
 
-Hi. I’m Marky Jackson and I am a lover of family, friends and a die-hard San Francisco Giants fan.
+Hi. I’m Marky Jackson and I am a lover of family, friends and a die-hard San Francisco Giants fan who splits his time between San Francisco and San Diego.
 
 I am a senior software engineer at [Equinix Metal](https://metal.equinix.com) working on site reliability and the open-source [Tinkerbell](https://tinkerbell.org) project.
 
