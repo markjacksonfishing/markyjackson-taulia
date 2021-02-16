@@ -1,4 +1,4 @@
-[![Marky Jackson.](https://photos.app.goo.gl/Ao3VN4GZ1hp1STRKA)](https://github.com/markyjackson-taulia)
+[![Marky Jackson.](<a href="https://ibb.co/P1dbn5P"><img src="https://i.ibb.co/zPzLYSB/IMG-0669.jpg" alt="IMG-0669" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>geojson validator</a><br />)](https://github.com/markyjackson-taulia)
 
 Hi. I’m Marky Jackson and I am a lover of family, friends and a die-hard San Francisco Giants fan who splits his time between San Francisco and San Diego.
 
