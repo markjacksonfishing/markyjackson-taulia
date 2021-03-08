@@ -1,6 +1,7 @@
 [![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)](https://github.com/markyjackson-taulia)
 
-Hi! I’m Marky Jackson and I am a lover of family, friends and a die-hard San Francisco Giants fan. I left my heart in San Francisco in the summer of 2020 and now reside in San Diego, California.
+Hi! Super happy you found me.
+I’m Marky Jackson and I am a lover of family, friends and a die-hard San Francisco Giants fan. I left my heart in San Francisco in the summer of 2020 and now reside in San Diego, California.
 
 I am a senior software engineer at [Equinix Metal](https://metal.equinix.com) working on the [Tinkerbell](https://tinkerbell.org) project.
 
