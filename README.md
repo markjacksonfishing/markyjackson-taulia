@@ -19,4 +19,4 @@ In January 2021, I decided to step back from open-source projects for the forese
 
 To recuiters, I am not on the market. Please do not reach out as I am very happy with working at Equinix Metal :-) We're hiring too!
 
-[Coming Soon](https://markyjackson-taulia.github.io/markyjackson/)
+[Coming Soon](https://markyjackson-taulia.github.io/Marky-Jackson/)
