@@ -14,6 +14,6 @@ I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-cont
 
 Finally, I am a [mentoring lead within the Kubernetes project](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) as well as a [Kubernetes Outreachy coordinator for the Kubernetes project](https://www.outreachy.org/communities/cfp/kubernetes/).
 
-You can find me on Twitter [@markyjackson5](https://twitter.com/markyjackson5) and Linkedin [here](www.linkedin.com/in/markyjackson5)
+You can find me on Twitter [here](https://twitter.com/markyjackson5) and Linkedin [here](www.linkedin.com/in/markyjackson5)
 
 To recuiters, I am not on the market. Please do not reach out as I am very happy with working at Equinix Metal :-) We're hiring too!
