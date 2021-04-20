@@ -6,7 +6,7 @@ I’m Marky Jackson and I am a lover of family, friends and a die-hard San Franc
 
 I am a senior software engineer at [Equinix Metal](https://metal.equinix.com) working on the [Tinkerbell](https://tinkerbell.org) project.
 
-I am currently a graduate student studying Data Science/Machine Learning/AI etc under [Michal Fabinger](https://fabinger.webnode.com).
+I am was previously a graduate student studying Data Science/Machine Learning/AI etc under [Michal Fabinger](https://fabinger.webnode.com).
 
 I was previously a [Jenkins Goverence Board as well as the Jenkins Events Officer](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ), am currently a Kubernetes Org member, currently a [Kubernetes Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md), previously a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), previously a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), previously a [Jenkins Google Summer of Code org admin and mentor](https://www.jenkins.io/sigs/gsoc/), previously a [Google Summer of Docs org admin and mentor](https://www.jenkins.io/sigs/docs/gsod/), and previously helped with software development and community management on the [Ortelius Project](https://ortelius.io).
 
