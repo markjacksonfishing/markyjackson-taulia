@@ -15,7 +15,3 @@ I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-cont
 Finally, I was previously a [mentoring lead within the Kubernetes project](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) as well as a previous [Kubernetes Outreachy coordinator for the Kubernetes project](https://www.outreachy.org/communities/cfp/kubernetes/).
 
 You can find me on Twitter [here](https://twitter.com/markyjackson5), and LinkedIn [here](www.linkedin.com/in/markyjackson5)
-
-To recuiters, I am not on the market. Please do not reach out as I am very happy with working at Equinix Metal :-) We're hiring too!
-
-In April of 2021, I again made the difficult decision to take more of a break from Open Source and focus on family and work. I have been in Open Source for the better part of 15 years and absolutely love the community and technologies. I am thankful for all those that gave me oppurtunities and all those I have met along the way.
