@@ -4,7 +4,7 @@ Hello there! Super happy you found me here.
 
 I’m Marky Jackson and I am a lover of family, friends, and a die-hard San Francisco Giants fan. I left my heart in San Francisco in the summer of 2020, and now reside in San Diego, California.
 
-I am a senior software engineer at [Equinix Metal](https://metal.equinix.com) working on the [Tinkerbell](https://tinkerbell.org) project.
+I am a software engineering manager at [Equinix Metal](https://metal.equinix.com).
 
 I was previously a graduate student studying Data Science/Machine Learning/AI etc under [Michal Fabinger](https://fabinger.webnode.com) and hold a BA in Computer Science from Massachusetts Institute of Technology.
 
