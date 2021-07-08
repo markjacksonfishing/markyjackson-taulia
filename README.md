@@ -6,7 +6,7 @@ I’m Marky Jackson and I am a lover of family, friends, and a die-hard San Fran
 
 I am a software engineering manager at [Equinix Metal](https://metal.equinix.com).
 
-I was previously at Cisco, HP, Yousendit/Hightail, Symantec, Yahoo!, Sysdig, and a few others throughout my career.
+I was previously at Cisco, HP, Yousendit/Hightail, Symantec, Yahoo!, and Sysdig to name a few.
 
 I was previously a graduate student studying Data Science/Machine Learning/AI etc under [Michal Fabinger](https://fabinger.webnode.com) and hold a BA in Computer Science from Massachusetts Institute of Technology.
 
