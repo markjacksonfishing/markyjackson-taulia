@@ -18,4 +18,4 @@ My current obsession is with [pine64](https://www.pine64.org) #PinePhone #PineTi
 
 Finally, it's no secret I love food... alot. Some of my recipes as well as others awesome recipes can be found in this awesome [cloud-native cookbook](https://github.com/cncf/cloud-native-community-cookbook). 
 
- You can find me on Twitter [here](https://twitter.com/markyjackson5), and LinkedIn [here](www.linkedin.com/in/markyjackson5)
+ You can find me on [Twitter](https://twitter.com/markyjackson5), and [LinkedIn](www.linkedin.com/in/markyjackson5)
