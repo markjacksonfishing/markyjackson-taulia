@@ -4,7 +4,7 @@ Hello there! Super happy you found me here.
 
 I’m Marky Jackson and I am a lover of family, friends, and a die-hard San Francisco Giants fan. I left my heart in San Francisco in the summer of 2020, and now reside in San Diego, California.
 
-I am a software engineering manager at [Equinix Metal](https://metal.equinix.com) for our global Kubernetes Delivery team and guess what? We're hiring!
+I am a software engineering manager at [Equinix Metal](https://metal.equinix.com) for our global Kubernetes Delivery team and guess what? [We're hiring](https://equinix.wd1.myworkdayjobs.com/External/job/Sunnyvale/Principal-Engineer--Bare-Metal-Provisioning---Equinix-Metal_JR-121371-1)!
 
 I have served in both Iraq and Afghanistan with the United Sttes Army and was previously at Cisco, HP, Yousendit/Hightail, Symantec, Yahoo!, and Sysdig to name a few.
 
