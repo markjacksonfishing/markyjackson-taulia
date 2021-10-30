@@ -6,7 +6,7 @@ I’m Marky Jackson and I am a lover of family, friends, and a die-hard San Fran
 
 I am a software engineering manager at [Equinix Metal](https://metal.equinix.com) for our global Kubernetes Delivery team and guess what? [We're hiring](https://equinix.wd1.myworkdayjobs.com/External/job/Sunnyvale/Principal-Engineer--Bare-Metal-Provisioning---Equinix-Metal_JR-121371-1)!
 
-I have served in both Iraq and Afghanistan with the United Sttes Army and was previously at Cisco, HP, Yousendit/Hightail, Symantec, Yahoo!, and Sysdig to name a few.
+I have served in both Iraq and Afghanistan with the United States Army and was previously at Cisco, HP, Yousendit/Hightail, Symantec, Yahoo!, and Sysdig to name a few.
 
 I am a graduate student studying Data Science/Machine Learning/AI etc under [Michal Fabinger](https://fabinger.webnode.com) and hold a BA in Computer Science from Massachusetts Institute of Technology.
 
