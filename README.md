@@ -4,7 +4,7 @@ Hello there! Super happy you found me here.
 
 I’m Marky Jackson and I am a lover of family, friends, and a die-hard San Francisco Giants fan. I left my heart in San Francisco in the summer of 2020, and now reside in San Diego, California.
 
-I am a software engineering manager at [Equinix Metal](https://metal.equinix.com) for our [Tinkerbell](https://tinkerbell.org) and internal bare metal provisioning team.
+I am a software engineering manager at [Equinix Metal](https://metal.equinix.com) for our bare-metal provisioning team.
 
 I have served in both Iraq and Afghanistan with the United States Army and was previously at Cisco, HP, Yousendit/Hightail, Symantec, Yahoo!, and Sysdig to name a few.
 
