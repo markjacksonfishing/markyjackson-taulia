@@ -16,3 +16,4 @@ I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-cont
 
 Finally, it's no secret I love food... alot. Some of my recipes as well as others awesome recipes can be found in this awesome [cloud-native cookbook](https://github.com/cncf/cloud-native-community-cookbook). 
 
+You can also find me on [Twitter](https://twitter.com/markyjackson5), [LinkedIn](https://www.linkedin.com/in/markyjackson5/), and [Mastodon](https://floss.social/@markyjackson).
