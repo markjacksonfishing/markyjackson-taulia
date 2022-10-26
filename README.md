@@ -2,7 +2,7 @@
 
 Hello there! Super happy you found me here.
 
-I’m Marky Jackson (aka Marty Jackson (lol)) and I am a lover of family, friends, and a die-hard San Francisco Giants fan. I left my heart in San Francisco in the summer of 2020, and now reside in San Diego, California, with my partner Julie, our three children, Bella the dog, and Locke the cat-dog.
+I’m Marky Jackson, and I am a lover of family, friends, and a die-hard San Francisco Giants fan. I left my heart in San Francisco in the summer of 2020, and now reside in San Diego, California, with my partner Julie, our three children, Bella the dog, and Locke the cat-dog.
 
 I have had the pleasure of working with such companies as Yahoo!, Symantec, HP, Sysdig, Hightail (formally Yousendidit), Equinix Metal (formally Packt), and many more. I currently am the Chief Technologist in the Office of the CTO at Booz Allen Hamilton.
 
