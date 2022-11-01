@@ -11,5 +11,3 @@ I was previously a [Jenkins Goverence Board as well as the Jenkins Events Office
 I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/), and other mediums. In the past I have  [spoken publicly](https://www.youtube.com/watch?v=h4hKSXjCqyI) and enjoyed writing [blogs on technical topics](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/). Previously, I was named the [Most Valuable Jenkins Advocate](https://www.businesswire.com/news/home/20200924005128/en/DevOps-World-2020-Award-Winners-Announced).
 
 Finally, it's no secret I love food... alot. Some of my recipes as well as others awesome recipes can be found in this awesome [cloud-native cookbook](https://github.com/cncf/cloud-native-community-cookbook). 
-
-I am taking a step back from my open-source work to focus on family and my health.
