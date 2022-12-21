@@ -4,7 +4,7 @@ Hello there! Super happy you found me here.
 
 I’m Marky Jackson, and I am a lover of family, friends, and a die-hard San Francisco Giants fan.
 
-I have a BA in computer science from Massachusetts Institute. I am a graduate student studying machine learning, data science, and artificial intelligence with a deep focus on cancer detection under [Michal Fabinger](https://scholar.google.com/citations?user=qUk7ge0AAAAJ&hl=en)
+I have a BA in computer science from Massachusetts Institute of Technology. I am a graduate student studying machine learning, data science, and artificial intelligence with a deep focus on cancer detection under [Michal Fabinger](https://scholar.google.com/citations?user=qUk7ge0AAAAJ&hl=en)
 
 I have had the pleasure of working with such companies as Yahoo!, Symantec, HP, Sysdig, Hightail (formally Yousendidit), Equinix Metal (formally Packt), and many more. I currently am the Chief Technologist in the Office of the CTO at Booz Allen Hamilton.
 
