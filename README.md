@@ -1,6 +1,6 @@
 [![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)](https://github.com/markyjackson-taulia)
 
-Hello there! Super happy you found me here.
+Hello there! I am super happy you found me here.
 
 I’m Marky Jackson, and I am a lover of family, friends, and a die-hard San Francisco Giants fan. 
 
