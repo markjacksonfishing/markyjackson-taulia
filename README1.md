@@ -6,4 +6,4 @@ Marky is an accomplished tech leader and open-source advocate, with numerous acc
 
 In addition to his technical expertise, Marky is also a well-respected public speaker and writer, having been featured in the CNCF blog and other media outlets. He was named the Most Valuable Jenkins Advocate and received the Kubernetes Contribex Contributor award at KubeconNA 2022.
 
-Last but not least, Marky loves food and is a contributor to the cloud-native cookbook. Get to know the man behind the tech at his [Github profile](https://github.com/markyjackson-taulia/README.md.
+Last but not least, Marky loves food and is a contributor to the cloud-native cookbook. Get to know the man behind the tech at his [Github profile](https://github.com/markyjackson-taulia/README.md).
