@@ -4,7 +4,7 @@ Hello there! I am super happy you found me here.
 
 I’m Marky Jackson, a lover of family and friends and a die-hard San Francisco Giants fan. 
 
-I have a BA in computer science from Massachusetts Institute of Technology. I have enjoyed working with companies such as Yahoo!, Symantec, HP, Sysdig, Hightail (formally Yousendidit), Equinix Metal (formally Packet), and many others. I am currently exploring new opportunities. I have also served with the United States Army in support of operations in both Iraq and Afghanistan during multiple phases.
+I have a BA in computer science from Massachusetts Institute of Technology. I have enjoyed working with companies such as Yahoo!, Symantec, HP, Sysdig, Hightail (formally Yousendidit), Equinix Metal (formally Packet), and many others. I have also served with the United States Army in support of operations in both Iraq and Afghanistan during multiple phases.
 
 I am also building [methodair.org](https://methodair.org) and [project-julie](https://www.projectjulie.org).
 
