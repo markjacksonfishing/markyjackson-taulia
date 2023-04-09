@@ -1,10 +1,12 @@
 [![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)](https://github.com/markyjackson-taulia)
 
-Hello there! I am super happy you found me here.
+Hi there, it's great to meet you! My name is Marky Jackson, and I'm passionate about spending time with family and friends and rooting for the San Francisco Giants.
 
-I’m Marky Jackson, a lover of family and friends and a die-hard San Francisco Giants fan. 
+I graduated from the Massachusetts Institute of Technology with a Bachelor's degree in computer science. Throughout my career, I've had the pleasure of collaborating with top companies such as Yahoo!, Symantec, HP, Sysdig, Hightail (formerly Yousendidit), Equinix Metal (formerly Packet), and Jasmine Miltumedia.
 
-I have a BA in computer science from Massachusetts Institute of Technology. I have enjoyed working with companies such as Yahoo!, Symantec, HP, Sysdig, Hightail (formally Yousendidit), Equinix Metal (formally Packet), and many others. I have also served with the United States Army in support of operations in both Iraq and Afghanistan during multiple phases.
+Additionally, I'm proud to have served in the United States Army, supporting operations in both Iraq and Afghanistan during multiple phases.
+
+I'm excited to share my knowledge and experiences with you and look forward to connecting with you soon. Thanks for taking the time to read a bit about me!
 
 I am also building [methodair.org](https://methodair.org) and [project-julie](https://www.projectjulie.org).
 
