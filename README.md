@@ -2,7 +2,7 @@
 
 Hi there, it's great to meet you! My name is Marky Jackson, and I'm passionate about spending time with family and friends and rooting for the San Francisco Giants.
 
-I graduated from the Massachusetts Institute of Technology with a Bachelor's degree in computer science. Throughout my career, I've had the pleasure of collaborating with top companies such as Yahoo!, Symantec, HP, AT&T labs, Sysdig, Hightail (formerly Yousendidit), Equinix Metal (formerly Packet), and Jasmine Miltumedia.
+I graduated from the Massachusetts Institute of Technology with a Bachelor's degree in computer science. Throughout my career, I've had the pleasure of collaborating with top companies such as Yahoo!, Symantec, HP, Datavant, AT&T labs, Sysdig, Hightail (formerly Yousendidit), Equinix Metal (formerly Packet), and Jasmine Miltumedia.
 
 Additionally, I'm proud to have served in the United States Army, supporting operations in both Iraq and Afghanistan during multiple phases.
 
