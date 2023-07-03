@@ -1,1 +1,17 @@
+[![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)](https://github.com/markyjackson-taulia)
+
+Hi there, it's great to meet you! My name is Marky Jackson, and I'm passionate about spending time with family and friends and rooting for the San Francisco Giants.
+
+I graduated from the Massachusetts Institute of Technology with a Bachelor's degree in computer science. Throughout my career, I've had the pleasure of collaborating with top companies such as Blue Cross of California, Yahoo!, Symantec, HP, AT&T Labs, Sysdig, Hightail (formerly Yousendidit), Equinix Metal (formerly Packet), and Jasmine Multimedia.
+
+Additionally, I'm proud to have served in the United States Army, supporting operations in Iraq and Afghanistan during multiple phases.
+
+I'm excited to share my knowledge and experiences with you and look forward to connecting soon. Thanks for taking the time to read a bit about me!
+
+
+I was previously a [Jenkins Goverence Board as well as the Jenkins Events Officer](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ), am currently a Kubernetes Org member, previously a [Kubernetes project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), once a [Kubernetes Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md), formerly a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), once a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), previously a [Jenkins Google Summer of Code org admin and mentor](https://www.jenkins.io/sigs/gsoc/), formerly a [Google Summer of Docs org admin and mentor](https://www.jenkins.io/sigs/docs/gsod/), previously helped with software development, and community management on the [Ortelius Project](https://ortelius.io), formerly a [mentoring lead within the Kubernetes project](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6), previously a [Kubernetes Moderation Co-lead](https://github.com/kubernetes/community/blob/master/communication/moderators.md), as well as a previous [Kubernetes Outreachy coordinator for the Kubernetes project](https://www.outreachy.org/communities/cfp/kubernetes/), previously helped with software development on the [Falco Project](https://falco.org), previosuly a member of several Kubernetes release teams in a shadow capacity, previously served on the board of directors for [Operation Dvoretskyi](https://www.operationdvoretskyi.org), and formerly a maintainer of several Jenkins plugins.
+
+I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/) and other mediums. In the past, I have  [spoken publicly](https://www.youtube.com/watch?v=h4hKSXjCqyI) and enjoyed writing [blogs on technical topics](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/). Previously, I was named the [Most Valuable Jenkins Advocate](https://www.businesswire.com/news/home/20200924005128/en/DevOps-World-2020-Award-Winners-Announced), and at KubeconNA 2022, I was awarded the [Kubernetes Contribex Contributor award](https://www.kubernetes.dev/community/awards/2022/#contributor-experience).
+
+Finally, it's no secret I love food. Some of my and others' fantastic recipes are in this awesome [cloud-native cookbook](https://github.com/cncf/cloud-native-community-cookbook).
 
